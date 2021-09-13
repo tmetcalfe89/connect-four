@@ -1,8 +1,8 @@
 # React Connect Four
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-[![Issues](https://img.shields.io/github/issues-raw/tmetcalfe89/tic-tac-toe.svg?maxAge=25000)](https://github.com/tmetcalfe89/tic-tac-toe/issues)
-[![Dependecy Status](https://david-dm.org/tmetcalfe89/tic-tac-toe.svg)](https://david-dm.org/tmetcalfe89/tic-tac-toe)
+[![Issues](https://img.shields.io/github/issues-raw/tmetcalfe89/connect-four.svg?maxAge=25000)](https://github.com/tmetcalfe89/connect-four/issues)
+[![Dependecy Status](https://david-dm.org/tmetcalfe89/connect-four.svg)](https://david-dm.org/tmetcalfe89/connect-four)
 
 ## What is this?
 
