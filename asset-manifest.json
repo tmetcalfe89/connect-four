@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/connect-four/static/css/main.9dfc16ff.chunk.css",
-    "main.js": "/connect-four/static/js/main.d85f3a99.chunk.js",
-    "main.js.map": "/connect-four/static/js/main.d85f3a99.chunk.js.map",
+    "main.css": "/connect-four/static/css/main.6cd325dd.chunk.css",
+    "main.js": "/connect-four/static/js/main.db332adf.chunk.js",
+    "main.js.map": "/connect-four/static/js/main.db332adf.chunk.js.map",
     "runtime-main.js": "/connect-four/static/js/runtime-main.362da6d7.js",
     "runtime-main.js.map": "/connect-four/static/js/runtime-main.362da6d7.js.map",
-    "static/css/2.68b64559.chunk.css": "/connect-four/static/css/2.68b64559.chunk.css",
-    "static/js/2.4250581e.chunk.js": "/connect-four/static/js/2.4250581e.chunk.js",
-    "static/js/2.4250581e.chunk.js.map": "/connect-four/static/js/2.4250581e.chunk.js.map",
+    "static/css/2.0975cee1.chunk.css": "/connect-four/static/css/2.0975cee1.chunk.css",
+    "static/js/2.9b11a814.chunk.js": "/connect-four/static/js/2.9b11a814.chunk.js",
+    "static/js/2.9b11a814.chunk.js.map": "/connect-four/static/js/2.9b11a814.chunk.js.map",
     "index.html": "/connect-four/index.html",
-    "static/css/2.68b64559.chunk.css.map": "/connect-four/static/css/2.68b64559.chunk.css.map",
-    "static/css/main.9dfc16ff.chunk.css.map": "/connect-four/static/css/main.9dfc16ff.chunk.css.map",
-    "static/js/2.4250581e.chunk.js.LICENSE.txt": "/connect-four/static/js/2.4250581e.chunk.js.LICENSE.txt"
+    "static/css/2.0975cee1.chunk.css.map": "/connect-four/static/css/2.0975cee1.chunk.css.map",
+    "static/css/main.6cd325dd.chunk.css.map": "/connect-four/static/css/main.6cd325dd.chunk.css.map",
+    "static/js/2.9b11a814.chunk.js.LICENSE.txt": "/connect-four/static/js/2.9b11a814.chunk.js.LICENSE.txt",
+    "static/media/noplayer.84777cbc.svg": "/connect-four/static/media/noplayer.84777cbc.svg",
+    "static/media/player1.97366ca8.svg": "/connect-four/static/media/player1.97366ca8.svg",
+    "static/media/player2.cae5488e.svg": "/connect-four/static/media/player2.cae5488e.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.362da6d7.js",
-    "static/css/2.68b64559.chunk.css",
-    "static/js/2.4250581e.chunk.js",
-    "static/css/main.9dfc16ff.chunk.css",
-    "static/js/main.d85f3a99.chunk.js"
+    "static/css/2.0975cee1.chunk.css",
+    "static/js/2.9b11a814.chunk.js",
+    "static/css/main.6cd325dd.chunk.css",
+    "static/js/main.db332adf.chunk.js"
   ]
 }
