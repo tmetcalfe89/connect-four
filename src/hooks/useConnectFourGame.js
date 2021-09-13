@@ -23,7 +23,7 @@ export default function useConnectFourGame({ notify }) {
   const [currentPlayer, setCurrentPlayer] = useState(PLAYER_1);
 
   const changeCell = (x, y, value) => {
-    if (board.getCell(x, y).taken) return false;
+    if (!board.getCell(x, y) || board.getCell(x, y).taken) return false;
     board.setCell(x, y, value);
     return true;
   };

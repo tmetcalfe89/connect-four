@@ -30,6 +30,9 @@ function Board({
     }
 
     getCell(x, y) {
+      if (x < 0 || x >= X_CELLS || y < 0 || y >= Y_CELLS) {
+        return null;
+      }
       return this.cells[y][x];
     }
 
