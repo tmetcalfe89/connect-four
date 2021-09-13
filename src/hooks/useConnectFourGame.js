@@ -4,8 +4,8 @@ import board from "../logic/Board";
 
 const NO_PLAYER = "-";
 const TIE_PLAYER = "Nobody";
-const PLAYER_1 = "X";
-const PLAYER_2 = "O";
+const PLAYER_1 = "Red";
+const PLAYER_2 = "Green";
 const X_CELLS = 7;
 const Y_CELLS = 6;
 
@@ -60,6 +60,9 @@ export default function useConnectFourGame({ notify }) {
   }, [board.winner]);
 
   return {
+    PLAYER_1,
+    PLAYER_2,
+    NO_PLAYER,
     board,
     takeTurn,
     resetGameState,

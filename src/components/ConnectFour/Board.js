@@ -6,7 +6,7 @@ import Cell from "./Cell";
 import "./Board.css";
 
 export default function Board() {
-  const { board, takeTurn, resetGameState } = useConnectFourGame({
+  const { PLAYER_1, PLAYER_2, NO_PLAYER, board, takeTurn, resetGameState } = useConnectFourGame({
     notify: toast,
   });
 
@@ -19,12 +19,8 @@ export default function Board() {
               <Cell
                 cell={cell}
                 key={`cell-${rowI}-${cellI}`}
-                onClick={(e) =>
-                  takeTurn(
-                    e.target.getAttribute("x"),
-                    e.target.getAttribute("y")
-                  )
-                }
+                onClick={() => takeTurn(cellI, rowI)}
+                players={{ PLAYER_1, PLAYER_2, NO_PLAYER }}
               />
             ))}
           </div>
